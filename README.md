@@ -3,6 +3,8 @@ This is a learning project of Coursera Course: Google Cloud Platform Big Data an
 
 In this lab, we suppose that we have an existing on-premise architecture for housing rental recommendation. Our aim will be to migrate this infrastructure to GCP. Machine Learning is done using PySpark SparkML library.
 
+## Notes
+Cloud Dataproc is a fast, easy-to-use, fully managed cloud service for running Apache Spark and Apache Hadoop clusters in a simpler, more cost-efficient way.
 ## Create Cloud SQL instances
 On GCP, create an MySQL instance. Set the proper name, and define a password.
 
